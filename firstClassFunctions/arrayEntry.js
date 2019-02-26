@@ -1,4 +1,4 @@
-// Can be assigned to an array
+// Can be an array entry
 const array_of_functions = [
     function () {
         console.log("Beam me up Scotty");
