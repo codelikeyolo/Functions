@@ -11,10 +11,6 @@ Functions are first-class objects or first-class citizens.  They can be:
 - Can possess propoerties (See functionProperty.js)
 
 
-## Authors
-
-* **Yolanda** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
 
 
 
